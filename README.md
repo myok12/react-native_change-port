@@ -6,8 +6,8 @@ This script is useful if your system blocks or already uses port 8081, which is 
 
 To change react-native to listen on port 8082, do:
 1. go to your project folder.
-2. `git clone https://github.com/myok12/react-native_change-port.git ../react-native_change-port`
-3. `../react-native_change-port/react-native_change-port.sh 8082`
+2. run `git clone https://github.com/myok12/react-native_change-port.git ../react-native_change-port`
+3. run `../react-native_change-port/react-native_change-port.sh 8082`
 
 ## Symptom
 
