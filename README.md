@@ -8,6 +8,8 @@ To change react-native to listen on port 8082, do:
 1. go to your project folder.
 2. run `git clone https://github.com/myok12/react-native_change-port.git ../react-native_change-port`
 3. run `../react-native_change-port/react-native_change-port.sh 8082`
+4. now run `react-native run-android` successfully. You'll see it successfully running: `React packager ready`.
+5. In the Android device, in your app, go to the secret menu (Command+M), under `Dev Settings`, change `Debug server host & port for device` to reflect the new port.
 
 ## Symptom
 
